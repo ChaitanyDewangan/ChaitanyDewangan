@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ChaitanyDewangan
+- 👀 I’m interested in ...Sovling Real World Problems
+- 🌱 I’m currently learning ...Python DSA
